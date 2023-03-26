@@ -1,10 +1,10 @@
-Maze-Solver
+#Maze-Solver
 This repository contains a Java implementation of a maze solver algorithm. The algorithm takes an input maze file and uses backtracking to find the exit.
 
-Getting Started
+#Getting Started
 To get started with this project, you will need to clone this repository to your local machine and install Java 8 or higher.
 
-Usage
+#Usage
 To use this algorithm, you will need to provide an input maze file in the following format:
 
 @******@@@****X
