@@ -18,7 +18,7 @@ To use this algorithm, you will need to provide an input maze file in the follow
 The above example is a maze with 5 rows and 15 columns. '*' represents empty spaces. ‘@’ represents the walls. ‘X’ represents the exit.
 A few test mazes are supplied with the program.
 
-Once you have your input file ready, you can run the following commands to being the program and solve the maze:
+Once you have your input file ready, you can run the following commands to begin the program and solve the maze:
 
 ```
 javac MazeSolverDriver.java
