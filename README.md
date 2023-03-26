@@ -7,11 +7,11 @@ To get started with this project, you will need to clone this repository to your
 ## Usage
 To use this algorithm, you will need to provide an input maze file in the following format:
 
-@******@@@****X
+```@******@@@****X
 @****@@@@@@@*@*
 @****@***@***@*
 *@@@@@@@*****@*
-*********@@@@@@
+*********@@@@@@```
 
 The above example is a maze with 5 rows and 15 columns. '*' represents empty spaces. ‘@’ represents the walls. ‘X’ represents the exit.
 
