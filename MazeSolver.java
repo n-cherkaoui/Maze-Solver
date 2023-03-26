@@ -18,7 +18,7 @@ public class MazeSolver
         private int cols;
 
         // Constructor
-        public MagicMaze(String file, int rows, int cols)
+        public MazeSolver(String file, int rows, int cols)
         {
                 this.mazeNum = file;
                 this.rows = rows;
