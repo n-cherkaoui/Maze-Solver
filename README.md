@@ -17,5 +17,5 @@ The above example is a maze with 5 rows and 15 columns. '*' represents empty spa
 
 Once you have your input file ready, you can run the following commands to being the program and solve the maze:
 
-javac MazeSolver.java
-java MazeSolver input_file.txt num_rows num_cols
+javac MazeSolverDriver.java
+java MazeSolverDriver input_file.txt num_rows num_cols
