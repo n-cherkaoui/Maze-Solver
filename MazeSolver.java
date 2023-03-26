@@ -1,9 +1,3 @@
-/* Nawfal Cherkaoui Elmalki
- * Dr. Steinberg
- * COP3503 Spring 2023
- * Programming Assignment 2
- */
-
 // Pre-processor directives
 import java.io.File;
 import java.util.Scanner;
@@ -12,7 +6,7 @@ import java.util.HashMap;
 import java.awt.Point;
 
 // Magic Maze class
-public class MagicMaze
+public class MazeSolver
 {
         // Instance and class variables
         private static final int [] rowMoves = {-1, 0, 1, 0};
